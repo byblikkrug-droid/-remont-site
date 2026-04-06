@@ -54,8 +54,8 @@ export default function HomePage() {
               Профессиональный ремонт с гарантией качества. Бесплатный выезд замерщика и расчёт стоимости за 24 часа.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/contacts" className="px-8 py-4 bg-white text-primary-800 rounded-full font-bold text-lg hover:shadow-2xl hover:scale-105 transition-all animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-                Бесплатная консультация
+              <Link href="/prices" className="px-8 py-4 bg-white text-primary-800 rounded-full font-bold text-lg hover:shadow-2xl hover:scale-105 transition-all animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
+                Рассчитать стоимость
               </Link>
               <Link href="/portfolio" className="px-8 py-4 border-2 border-white text-white rounded-full font-bold text-lg hover:bg-white/10 transition-all animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
                 Смотреть работы
