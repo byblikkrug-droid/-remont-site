@@ -43,3 +43,6 @@ coverage/
 # Misc
 *.tgz
 .cache
+
+# License file (generated on GitHub)
+LICENSE
